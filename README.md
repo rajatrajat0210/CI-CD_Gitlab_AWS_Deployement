@@ -1,8 +1,10 @@
 # CI-CD_Gitlab_AWS_Deployement
 # 🚀 Terraform AWS Deployment with GitLab CI/CD
 
-![image alt]()
-![image alt]()
+![image alt](https://github.com/rajatrajat0210/CI-CD_Gitlab_AWS_Deployement/blob/main/GitLab_Pipeline.jpg?raw=true)
+![image alt](https://github.com/rajatrajat0210/CI-CD_Gitlab_AWS_Deployement/blob/main/aws_bucket.jpg?raw=true)
+![image alt](https://github.com/rajatrajat0210/CI-CD_Gitlab_AWS_Deployement/blob/main/dynamodb.jpg?raw=true)
+
 
 ## 📌 Overview
 This project automates the provisioning of AWS infrastructure using **Terraform** and deploys it via a **GitLab CI/CD pipeline**. The setup ensures efficient, repeatable, and secure infrastructure management.
